@@ -170,6 +170,16 @@ You can either create the ISO yourself, or open an issue and I will try to creat
 <details>
 <summary>Click to expand</summary>
 
+###
+- Added Yosemite 10.10.iso
+- Added El Capitan 10.12.dmg
+- 
+- 
+- 
+- 
+- 
+
+
 ## 2025-01-03
 
 - Added macOS Sequoia 15.2_24C101
